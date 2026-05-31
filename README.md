@@ -567,17 +567,11 @@ All dependencies are reviewed for license compatibility with Apache 2.0.
 
 ## Additional Resources
 
-### Documentation
-
-* Organization Wiki
-* API Documentation
-* Architecture Overview
-
 ### External Resources
 
-* Stellar Documentation
-* Soroban Smart Contracts
-* Horizon API Reference
+* [Stellar Documentation]([https://developers.stellar.org/docs/data/apis/horizon](https://developers.stellar.org/docs))
+* [Soroban Smart Contracts](https://developers.stellar.org/docs/build/guides/dapps/working-with-contract-specs#introduction)
+* [Horizon API Reference](https://developers.stellar.org/docs/data/apis/horizon)
 
 ### Communication
 
